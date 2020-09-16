@@ -1,4 +1,4 @@
-package com.bubblesort;
+package com.projects;
 
 public class Main {
 
